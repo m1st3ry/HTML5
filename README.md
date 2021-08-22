@@ -1,7 +1,6 @@
 # HTML5 
 # Aprendendo a estrutura de uma pagina HTML5 usando um site de vendas.
 
-<!DOCTYPE html>
   <html lang="pt-br">
   <head>
       <meta charset="UTF-8">
