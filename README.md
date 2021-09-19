@@ -9,7 +9,7 @@
     </head>
     <body>
     	<h1>
-    		<ol>Tags>
+    		<ol>Tags
     			<li>Tag Basica</li>
     			<li>Meta Tag</li>
     			<li>Listas</li>
